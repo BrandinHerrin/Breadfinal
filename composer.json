@@ -1,6 +1,6 @@
 {
-"name": "your-app-name",
-"description": "A PHP application",
+"name": "",
+"description": "",
 "require": {
 "php": "^7.4"
 },
